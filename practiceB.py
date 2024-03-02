@@ -1,6 +1,4 @@
 n = int(input())
-i = 1
-while i <= n:
-    set = input()
-    print(eval(set))
+for i in range(1,n+1):
+    print(eval(input()))
     i += 1
