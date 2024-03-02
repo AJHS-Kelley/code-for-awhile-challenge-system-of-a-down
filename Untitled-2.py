@@ -1,4 +1,4 @@
-set = input().split(" ", 1)
+set = input().split(" ", 99)
 num = eval(set[0])
 text = set[1]
 i = 1
